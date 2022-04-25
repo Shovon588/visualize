@@ -1,3 +1,16 @@
+<a href="#">
+  <p align="center">
+    <img
+      height="100"
+      src="https://raw.githubusercontent.com/shovon588/visualize/main/assets/visualization.png"
+    />
+  </p>
+</a>
+
+<p align="center">
+    <strong>Taking the power of visualization to the moon 🚀</strong>
+</p>
+
 ## Goal of the project
 
 The idea of this project is to visualize different algorithms to understand them better. For example, we will visualize how the merge sort actually works or maybe graph and so on.
