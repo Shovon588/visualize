@@ -1,0 +1,33 @@
+.sorting {
+    background: #143f6b;
+    margin: 3rem auto;
+    width: 90vw;
+    height: 35rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+
+    div[class^="bar"] {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .bar {
+            height: calc(100% - 50px);
+            width: 40px;
+            background: #f55353;
+            border-top-left-radius: 7px;
+            border-top-right-radius: 7px;
+        }
+
+        .bar-span {
+            background: white;
+            height: 50px;
+            aspect-ratio: 1/1;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
